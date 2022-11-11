@@ -1,0 +1,5 @@
+INFO    2022-10-26 19:07:54,316 [main] log4j.Main  - El logger está funcionando
+ERROR   2022-10-26 19:16:44,600 [main] log4j.Main  - La lista es igual a cero
+INFO    2022-10-26 19:17:33,845 [main] log4j.Main  - El promedio de la lista 1 es: 3.0
+INFO    2022-10-26 19:17:33,847 [main] log4j.Main  - El promedio de la lista 2 es: 8.0
+ERROR   2022-10-26 19:17:33,847 [main] log4j.Main  - La lista es igual a cero

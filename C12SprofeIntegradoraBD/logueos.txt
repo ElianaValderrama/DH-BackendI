@@ -1,0 +1,27 @@
+ERROR   2022-10-27 22:37:50,957 [main] Integradora.Usuario  - No se pudo conectar a la BD
+ERROR   2022-10-27 22:40:27,344 [main] Integradora.Usuario  - No se pudo conectar a la BD
+INFO    2022-10-27 22:41:54,184 [main] Integradora.Usuario  - Se conecto a la BD
+INFO    2022-10-27 22:41:54,223 [main] Integradora.Usuario  - Se creo la tabla
+ERROR   2022-10-27 22:41:54,295 [main] Integradora.Usuario  - No se pudo conectar a la BD
+INFO    2022-10-27 22:43:17,900 [main] Integradora.Usuario  - Se conecto a la BD
+INFO    2022-10-27 22:43:18,040 [main] Integradora.Usuario  - Se creo la tabla
+INFO    2022-10-27 22:43:18,062 [main] Integradora.Usuario  - Se inserto al usuario con ID 1
+ERROR   2022-10-27 22:43:18,206 [main] Integradora.Usuario  - No se pudo conectar a la BD
+INFO    2022-10-27 22:44:28,296 [main] Integradora.Usuario  - Se conecto a la BD
+INFO    2022-10-27 22:44:28,343 [main] Integradora.Usuario  - Se creo la tabla
+INFO    2022-10-27 22:44:28,357 [main] Integradora.Usuario  - Se inserto al usuario con ID 1
+INFO    2022-10-27 22:44:28,359 [main] Integradora.Usuario  - Se inserto al usuario con ID 2
+INFO    2022-10-27 22:44:28,362 [main] Integradora.Usuario  - Se inserto al usuario con ID 3
+INFO    2022-10-27 22:44:28,399 [main] Integradora.Usuario  - Se elimino al usuario con el ID 2
+INFO    2022-10-27 22:47:27,841 [main] Integradora.Usuario  - Se conecto a la BD
+INFO    2022-10-27 22:47:27,954 [main] Integradora.Usuario  - Se creo la tabla
+INFO    2022-10-27 22:50:10,537 [main] Integradora.Usuario  - Se inserto al usuario con ID 1
+INFO    2022-10-27 22:50:10,550 [main] Integradora.Usuario  - Se inserto al usuario con ID 2
+INFO    2022-10-27 22:50:10,556 [main] Integradora.Usuario  - Se inserto al usuario con ID 3
+INFO    2022-10-27 22:50:10,663 [main] Integradora.Usuario  - Se elimino al usuario con el ID 2
+INFO    2022-11-10 21:35:36,234 [main] Integradora.Usuario  - Se conecto a la BD
+INFO    2022-11-10 21:35:36,245 [main] Integradora.Usuario  - Se creo la tabla
+INFO    2022-11-10 21:35:36,248 [main] Integradora.Usuario  - Se inserto al usuario con ID 1
+INFO    2022-11-10 21:35:36,248 [main] Integradora.Usuario  - Se inserto al usuario con ID 2
+INFO    2022-11-10 21:35:36,249 [main] Integradora.Usuario  - Se inserto al usuario con ID 3
+INFO    2022-11-10 21:35:36,260 [main] Integradora.Usuario  - Se elimino al usuario con el ID 2

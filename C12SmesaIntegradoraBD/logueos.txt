@@ -1,0 +1,27 @@
+ERROR   2022-10-27 21:22:01,247 [main] Empleado  - Error debido a: Error de Sintaxis en sentencia SQL "CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(100) NOT NULL,APELLIDO varchar(100) [*]NOT NULLEDAD INT NOT NULLEMAIL varchar(100) NOT NULL)"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT NULL, NULL, AS, DEFAULT, GENERATED, ON UPDATE, NOT NULL, NULL, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(100) NOT NULL,APELLIDO varchar(100) [*]NOT NULLEDAD INT NOT NULLEMAIL varchar(100) NOT NULL)"; expected "ARRAY, INVISIBLE, VISIBLE, NOT NULL, NULL, AS, DEFAULT, GENERATED, ON UPDATE, NOT NULL, NULL, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(100) NOT NULL,APELLIDO varchar(100) NOT NULLEDAD INT NOT NULLEMAIL varchar(100) NOT NULL) [42001-214]
+ERROR   2022-10-27 21:28:40,804 [main] Empleado  - Error debido a: Error de Sintaxis en sentencia SQL "CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(100) NOT NULL,APELLIDO varchar(100) [*]NOT NULLEDAD INT NOT NULLEMAIL varchar(100) NOT NULL)"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT NULL, NULL, AS, DEFAULT, GENERATED, ON UPDATE, NOT NULL, NULL, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(100) NOT NULL,APELLIDO varchar(100) [*]NOT NULLEDAD INT NOT NULLEMAIL varchar(100) NOT NULL)"; expected "ARRAY, INVISIBLE, VISIBLE, NOT NULL, NULL, AS, DEFAULT, GENERATED, ON UPDATE, NOT NULL, NULL, AUTO_INCREMENT, DEFAULT ON NULL, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE EMPLEADOS (ID INT PRIMARY KEY, NOMBRE varchar(100) NOT NULL,APELLIDO varchar(100) NOT NULLEDAD INT NOT NULLEMAIL varchar(100) NOT NULL) [42001-214]
+DEBUG   2022-10-27 21:30:00,992 [main] Empleado  - Se cambió a Esteban Quito por Mario Neta
+DEBUG   2022-10-27 21:32:17,538 [main] Empleado  - Se cambió a Esteban Quito por Mario Neta
+ERROR   2022-10-27 21:32:17,540 [main] Empleado  - Error debido a: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADOS(ID) ( /* key:3 */ 3, 'Mario', 'Neta', 25, 'estebanquito@gmail.com')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADOS(ID) ( /* key:3 */ 3, 'Mario', 'Neta', 25, 'estebanquito@gmail.com')"; SQL statement:
+INSERT INTO EMPLEADOS (ID,NOMBRE,APELLIDO,EDAD,EMAIL) VALUES(3,'Martin','Gonzales',35,'martingonza@gmail.com') [23505-214]
+DEBUG   2022-10-27 21:52:34,369 [main] Empleado  - Se cambió a Esteban Quito por Mario Neta
+ERROR   2022-10-27 21:52:34,372 [main] Empleado  - Error debido a: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADOS(ID) ( /* key:3 */ 3, 'Mario', 'Neta', 25, 'estebanquito@gmail.com')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADOS(ID) ( /* key:3 */ 3, 'Mario', 'Neta', 25, 'estebanquito@gmail.com')"; SQL statement:
+INSERT INTO EMPLEADOS (ID,NOMBRE,APELLIDO,EDAD,EMAIL) VALUES(3,'Martin','Gonzales',35,'martingonza@gmail.com') [23505-214]
+DEBUG   2022-10-27 21:52:55,105 [main] Empleado  - Se cambió a Esteban Quito por Mario Neta
+INFO    2022-10-27 21:52:55,107 [main] Empleado  - Se borró a Cosme Fulanito
+INFO    2022-10-27 21:52:55,108 [main] Empleado  - Se borró a Franco Israelita
+DEBUG   2022-10-27 21:54:22,702 [main] Empleado  - Se cambió a Esteban Quito por Mario Neta
+INFO    2022-10-27 21:54:22,703 [main] Empleado  - Se borró a Cosme Fulanito
+INFO    2022-10-27 21:54:22,704 [main] Empleado  - Se borró a Franco Israelita
+ERROR   2022-10-27 21:54:22,707 [main] Empleado  - Error debido a: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.EMPLEADOS(ID) ( /* key:3 */ 3, 'Mario', 'Neta', 25, 'estebanquito@gmail.com')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.EMPLEADOS(ID) ( /* key:3 */ 3, 'Mario', 'Neta', 25, 'estebanquito@gmail.com')"; SQL statement:
+INSERT INTO EMPLEADOS (ID,NOMBRE,APELLIDO,EDAD,EMAIL) VALUES(3,'Martin','Gonzales',35,'martingonza@gmail.com') [23505-214]
+DEBUG   2022-10-27 21:54:51,458 [main] Empleado  - Se cambió a Esteban Quito por Mario Neta
+INFO    2022-10-27 21:54:51,460 [main] Empleado  - Se borró a Cosme Fulanito
+INFO    2022-10-27 21:54:51,460 [main] Empleado  - Se borró a Franco Israelita

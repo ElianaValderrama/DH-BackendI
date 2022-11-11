@@ -1,0 +1,10 @@
+INFO    2022-10-31 20:30:39,216 [main] Odontologo  - Se guardó a: 
+INFO    2022-10-31 20:30:39,228 [main] Odontologo  - 1 Elva Ginón zxcvzxcv
+INFO    2022-10-31 20:34:22,859 [main] Odontologo  - Se guardó a: 
+INFO    2022-10-31 20:34:22,865 [main] Odontologo  - 1 Elva Ginón zxcvzxcv
+INFO    2022-10-31 20:34:22,866 [main] Odontologo  - Se Actualizó a: 
+INFO    2022-10-31 20:34:22,866 [main] Odontologo  - 1 Elva Ginón zxcvzxcv
+INFO    2022-10-31 20:35:02,354 [main] Odontologo  - Se guardó a: 
+INFO    2022-10-31 20:35:02,361 [main] Odontologo  - 1 Elva Ginón zxcvzxcv
+INFO    2022-10-31 20:35:02,364 [main] Odontologo  - Se Actualizó a: 
+INFO    2022-10-31 20:35:02,364 [main] Odontologo  - 1 Once Ginón zxcvzxcv

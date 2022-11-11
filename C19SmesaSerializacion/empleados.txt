@@ -1,0 +1,1 @@
+[Empleado{nombre='David'; apellido='Galvis'; legajo=123; sueldo=123456.78}, Empleado{nombre='Lady'; apellido='Ávila'; legajo=123; sueldo=123456.78}, Empleado{nombre='Mechi'; apellido='Bakker'; legajo=123; sueldo=123456.78}, Empleado{nombre='Lilly'; apellido='Sofía'; legajo=123; sueldo=123456.78}]
