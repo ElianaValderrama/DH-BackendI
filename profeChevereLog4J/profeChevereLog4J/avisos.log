@@ -1,0 +1,36 @@
+[2022-11-14 20:22:18] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 6
+[2022-11-14 20:22:18] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 7
+[2022-11-14 20:22:18] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 8
+[2022-11-14 20:22:18] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 9
+[2022-11-14 20:39:15] [ INFO ] [PlayGround:5] Empezamos nuestro metodo MAIN
+[2022-11-14 20:39:15] [ ERROR] [PlayGround:10] Error por dividir por cero 
+java.lang.ArithmeticException: / by zero
+	at PlayGround.main(PlayGround.java:8)
+[2022-11-14 20:39:15] [ WARN ] [PlayGround:12] Advertencia el metodo MAIN esta por finalizar
+[2022-11-14 20:39:15] [ DEBUG] [PlayGround:13] Esto va a mostrarse solo si el infoLogger esta en DEBUG
+[2022-11-14 20:39:15] [ INFO ] [PlayGround:14] Finalizamos el thread MAIN
+[2022-11-15 19:07:25] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 6
+[2022-11-15 19:07:25] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 7
+[2022-11-15 19:07:25] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 8
+[2022-11-15 19:07:25] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 9
+[2022-11-15 19:07:39] [ INFO ] [PlayGround:5] Empezamos nuestro metodo MAIN
+[2022-11-15 19:07:39] [ ERROR] [PlayGround:10] Error por dividir por cero 
+java.lang.ArithmeticException: / by zero
+	at PlayGround.main(PlayGround.java:8)
+[2022-11-15 19:07:39] [ WARN ] [PlayGround:12] Advertencia el metodo MAIN esta por finalizar
+[2022-11-15 19:07:39] [ DEBUG] [PlayGround:13] Esto va a mostrarse solo si el infoLogger esta en DEBUG
+[2022-11-15 19:07:39] [ INFO ] [PlayGround:14] Finalizamos el thread MAIN
+[2022-11-15 19:08:16] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 6
+[2022-11-15 19:08:16] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 7
+[2022-11-15 19:08:16] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 8
+[2022-11-15 19:08:16] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 9
+[2022-11-15 19:11:21] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 6
+[2022-11-15 19:11:21] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 7
+[2022-11-15 19:11:21] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 8
+[2022-11-15 19:11:21] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 9
+[2022-11-15 19:11:21] [ INFO ] [App:39] El promedio dio: 39
+[2022-11-15 19:14:08] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 6
+[2022-11-15 19:14:08] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 7
+[2022-11-15 19:14:08] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 8
+[2022-11-15 19:14:08] [ INFO ] [App:23] La lista tiene mas de 5 elementos, elementos totales: 9
+[2022-11-15 19:14:08] [ INFO ] [App:39] El promedio dio: 39
